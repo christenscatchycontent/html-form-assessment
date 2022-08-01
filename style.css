@@ -1,0 +1,19 @@
+input {
+    width: 100%;
+}
+
+textarea {
+    width: 100%;
+}
+
+.field {
+    margin: 15px 0;
+}
+
+form {
+    margin: 50px 30% 0 30%;
+}
+
+.submit-button {
+    text-align: center;
+}
